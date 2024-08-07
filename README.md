@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Benup Ghimire</h1>
-<h3 align="center">I'm a passionate developer with a focus on Flutter, web development, and Linux. I'm always looking to collaborate with other developers and learn new technologies.</h3>
+<h3 align="center">I'm a passionate developer with a focus on Fullstack Development. I'm always looking to collaborate with other developers and learn new technologies.</h3>
 
 
-- 🌱 I’m currently learning **Flutter,Web development,linux**
+- 🌱 I’m currently learning **NodeJs,Web development,linux**
 
-- 💬 Ask me about **Flutter,tailwindcss**
+- 💬 Ask me about **ModeJS,Python,Django**
 
 - 📫 How to reach me **benup211@gmail.com**
 
