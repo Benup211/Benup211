@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NodeJs,Web development,linux**
 
-- 💬 Ask me about **ModeJS,Python,Django**
+- 💬 Ask me about **NodeJS,Python,Django**
 
 - 📫 How to reach me **benup211@gmail.com**
 
