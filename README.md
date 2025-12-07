@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Benup Ghimire</h1>
-<h3 align="center">I'm a passionate developer with a focus on Fullstack Development. I'm always looking to collaborate with other developers and learn new technologies.</h3>
 
 - 🌱 I’m currently learning **NodeJs,Blockchain,Web3 development,linux**
 - 📫 How to reach me **benup211@gmail.com**
